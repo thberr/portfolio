@@ -32,6 +32,9 @@ importers:
       tailwindcss:
         specifier: ^4.0.6
         version: 4.0.6
+      webcoreui:
+        specifier: ^0.10.1
+        version: 0.10.1
     devDependencies:
       '@typescript-eslint/parser':
         specifier: ^8.24.0
@@ -2158,6 +2161,9 @@ packages:
 
   web-namespaces@2.0.1:
     resolution: {integrity: sha512-bKr1DkiNa2krS7qxNtdrtHAmzuYGFQLiQ13TsorsdT6ULTkPLKuu5+GsFpDlg6JFjUTwX2DyhMPG2be8uPrqsQ==}
+
+  webcoreui@0.10.1:
+    resolution: {integrity: sha512-nK1b8r43DOLoORyxpEuua+E0DkhxhecgLN4eA5Tv+FnbOV9I+DV5/xU/to5K3kZMovHFLXwIWlSjXtIF7VgrOg==}
 
   which-pm-runs@1.1.0:
     resolution: {integrity: sha512-n1brCuqClxfFfq/Rb0ICg9giSZqCS+pLtccdag6C2HyufBrh3fBOiy9nb6ggRMvWOVH5GrdJskj5iGTZNxd7SA==}
@@ -4577,6 +4583,8 @@ snapshots:
       vite: 6.1.0(jiti@2.4.2)(lightningcss@1.29.1)
 
   web-namespaces@2.0.1: {}
+
+  webcoreui@0.10.1: {}
 
   which-pm-runs@1.1.0: {}
 
